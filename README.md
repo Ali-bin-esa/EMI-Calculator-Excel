@@ -31,6 +31,6 @@ Beginner Finance Calculator
 - Protected Formula Cells
 - User Input Only Design
 - Error Prevention
-- 
+  
 ## Author
 [Ali-bin-esa]
